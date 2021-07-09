@@ -1,2 +1,2 @@
 # html_webcomponent
-This repository have the basic HTML web component.
+This repository has the basic HTML5 web component along with its life cycle methods and shell page.
